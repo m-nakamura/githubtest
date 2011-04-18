@@ -18,12 +18,12 @@
     <repository>
       <id>repository</id>
       <name>deployRepository</name>
-      <url>http://github.com/m-nakamura/githubtest/raw/master/release</url>
+      <url>https://github.com/m-nakamura/githubtest/raw/master/release</url>
     </repository>
     <snapshotRepository>
       <id>snapshot-repository</id>
       <name>deployRepository</name>
-      <url>http://github.com/m-nakamura/githubtest/raw/master/snapshots</url>
+      <url>https://github.com/m-nakamura/githubtest/raw/master/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 
